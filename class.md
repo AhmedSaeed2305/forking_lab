@@ -1,3 +1,3 @@
 Ahmed
 Zagazig, Sharkia, Egypt
-META Front-end web developer
+META front-end web developer
